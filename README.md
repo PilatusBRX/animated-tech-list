@@ -1,4 +1,6 @@
-This is a React todo-list with technology list
+This is a React todo-list with technology list with Localstorage.
+
+#################################################################
 
 ## Available Scripts
 
